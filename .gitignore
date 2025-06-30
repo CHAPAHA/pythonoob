@@ -40,3 +40,7 @@ Thumbs.db
 *.rar
 *.7z
 *.bak
+
+# Ignore heavy notebook files
+notebooks/student_performance_encoded_analysis.ipynb
+notebooks/student_performance_regression_detailed.ipynb
